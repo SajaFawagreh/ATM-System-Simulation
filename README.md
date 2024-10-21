@@ -124,7 +124,7 @@ To run this project, you need:
 ### State Diagram
 For a detailed understanding of the workflow and how the system works, refer to the **State Diagram** included in this repository. The diagram provides a step-by-step representation of the interactions between the ATM, DB Server, and DB Editor, including conditions for valid account numbers, PIN verification, and transaction processing.
 
-![State Diagram](./path/to/diagram)
+([State Diagram](https://github.com/SajaFawagreh/ATM-System-Simulation/blob/233c82fd88ddceb81602acd92113ba0fcc48cbe1/State%20Diagram.png))
 
 ## License
 This project is for educational purposes and part of the SYSC 4001 course. No formal license is provided.
