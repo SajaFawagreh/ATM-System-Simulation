@@ -58,7 +58,7 @@ To run this project, you need:
 ## Operation Manual
 
 ### Step 1: Start the System
-- After compiling, open three terminal windows to run the three main processes (DB Server, DB Editor, and ATM).
+- After compiling, open three terminal windows to run the three main processes (ATM, DB Server, and DB Editor).
 
 1. **Start the ATM**:
    In the first terminal, run the ATM process to simulate customer interactions:
