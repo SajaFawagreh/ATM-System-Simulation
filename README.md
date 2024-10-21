@@ -61,7 +61,7 @@ To run this project, you need:
 - After compiling, open three terminal windows to run the three main processes (DB Server, DB Editor, and ATM).
 
 1. **Start the ATM**:
-   In the third terminal, run the ATM process to simulate customer interactions:
+   In the first terminal, run the ATM process to simulate customer interactions:
 
    ```bash
    ./ATM
@@ -70,7 +70,7 @@ To run this project, you need:
    The ATM will prompt for account number and PIN input.
 
 2. **Start the DB Server**:
-   In the first terminal, run the DB Server process to manage the account data:
+   In the second terminal, run the DB Server process to manage the account data:
 
    ```bash
    ./DBserver
@@ -79,7 +79,7 @@ To run this project, you need:
    The DB Server will start and listen for requests from the ATM and DB Editor.
 
 3. **Start the DB Editor**:
-   In the second terminal, run the DB Editor process to manage the database:
+   In the third terminal, run the DB Editor process to manage the database:
 
    ```bash
    ./DBeditor
